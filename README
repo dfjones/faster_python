@@ -1,0 +1,5 @@
+This is a test project to see the results of using Cython to speed up python code.
+
+The idea and original lisp and python code are from http://blog.postabon.com/make-lisp-15x-faster-than-python-or-4x-faster
+
+I created the Cython code.
